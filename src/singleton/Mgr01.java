@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 
 /**
  * 饿汉模式，类加载时直接初始化，线程安全

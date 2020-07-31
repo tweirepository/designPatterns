@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 
 /**
  * 懒汉模式

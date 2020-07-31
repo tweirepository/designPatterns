@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 
 /**
  * 静态内部类方式

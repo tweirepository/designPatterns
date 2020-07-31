@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 
 /**
  * 借用枚举机制实现单例
